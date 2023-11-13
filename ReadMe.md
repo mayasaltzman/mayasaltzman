@@ -7,6 +7,7 @@
 the back lakes of North Western Ontario. This experience provided me with a passion for sustainability and I hope to work on
 environmentally sustainable technology in the future!</p>
 <h2>Techincal Skills</h2>
+(this is in progress)
 <h3>Programming Languages</h3>
 
 <h3>Web Development</h3>
