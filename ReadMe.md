@@ -4,7 +4,7 @@
 </p>
 <p>💻 I have interests in back-end and database development, however I am always flexible when it comes to my learning!</p>
 <p>🌲 A fun fact about me is that I grew up canoe tripping. I have been on a month long trip through
-the back lakes of North Western Ontario. This experience provided me with a passion for sustainability and I hope to work on
+the back lakes of North Western Ontario. This experience provided me with a passion for sustainability and I hope to contribute to
 environmentally sustainable technology in the future!</p>
 <h2>Techincal Skills</h2>
 
